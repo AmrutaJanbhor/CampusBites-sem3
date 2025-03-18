@@ -1,6 +1,6 @@
-# EatEasy
+# CampusBites
 
-EatEasy is your go-to platform for ordering food online from your favorite restaurants, hassle-free.
+CampusBites is your go-to platform for ordering food online from your favorite restaurants, hassle-free.
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ These are the instructions to clone and run this project in your local machine f
 1. First of all, Clone this repository & navigate to the directory
 
 ```
-git clone https://github.com/chiragverma11/EatEasy_Food_Ordering_Website.git
+git clone 
 cd EatEasy_Food_Ordering_Website
 ```
 
